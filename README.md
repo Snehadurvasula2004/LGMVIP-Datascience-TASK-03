@@ -1,3 +1,3 @@
-# LGMVIP-Java-Task-02
-BEGINNER TASK TIC-TAE-TEO GAME
+# LGMVIP-datascience-Task-02
+iris flower classication 
 
